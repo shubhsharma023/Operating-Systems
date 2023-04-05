@@ -1,4 +1,4 @@
-/*SHUBHANKAR SHARMA  102118021  COBS1*/
+
 
 #include<stdio.h>
 #include<sys/types.h> /*sys/types.h provides definitions for system calls,*/
